@@ -17,14 +17,14 @@
             <div class="container">
                 <div class="block-heading">
                     <h2 class="text-info">Conócenos</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
+                    <p>Somos la agencia de viajes que quiere que tus proximas vacaciones sean grandiosas</p>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-sm-6 col-lg-4">
                         <div class="card text-center clean-card"><img class="card-img-top w-100 d-block" src="assets/img/avatars/avatar1.jpg">
                             <div class="card-body info">
                                 <h4 class="card-title">Enrique Chavez Valdez</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p class="card-text">Desarrollador jr de 19 años con mucho conocimiento en lenguajes de programacion mas actuales y trabajo en equipo</p>
                                 <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                         <div class="card text-center clean-card"><img class="card-img-top w-100 d-block" src="assets/img/avatars/avatar2.jpg">
                             <div class="card-body info">
                                 <h4 class="card-title">Angel Farid Ortiz Jimenez</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p class="card-text">Desarrollador jr con mucha experiencia en el desarrollo de paginas web de todo tipo</p>
                                 <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                         <div class="card text-center clean-card"><img class="card-img-top w-100 d-block" src="assets/img/avatars/avatar3.jpg">
                             <div class="card-body info">
                                 <h4 class="card-title">Fabricio Meneses Avila</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p class="card-text">Desarrollador jr con una buena estrategia de trabajo en equipo, que maneja varios lenguajes de programacion</p>
                                 <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                             </div>
                         </div>
@@ -51,44 +51,6 @@
             </div>
         </section>
     </main>
-    <footer class="page-footer dark">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-3">
-                    <h5>Get started</h5>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Sign up</a></li>
-                        <li><a href="#">Downloads</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <h5>About us</h5>
-                    <ul>
-                        <li><a href="#">Company Information</a></li>
-                        <li><a href="#">Contact us</a></li>
-                        <li><a href="#">Reviews</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <h5>Support</h5>
-                    <ul>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Help desk</a></li>
-                        <li><a href="#">Forums</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <h5>Legal</h5>
-                    <ul>
-                        <li><a href="#">Terms of Service</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/baguetteBox.min.js"></script>
     <script src="assets/js/vanilla-zoom.js"></script>

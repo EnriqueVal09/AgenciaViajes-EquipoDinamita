@@ -206,6 +206,7 @@
     <Content Include="Formularios\assets\js\theme.js" />
     <Content Include="Formularios\assets\js\vanilla-zoom.js" />
     <Content Include="Formularios\Conocenos.aspx" />
+    <Content Include="Formularios\Contacto.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -406,6 +407,13 @@
     </Compile>
     <Compile Include="Formularios\Conocenos.aspx.designer.cs">
       <DependentUpon>Conocenos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Contacto.aspx.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formularios\Contacto.aspx.designer.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
