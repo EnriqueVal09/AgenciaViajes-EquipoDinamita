@@ -207,6 +207,7 @@
     <Content Include="Formularios\assets\js\vanilla-zoom.js" />
     <Content Include="Formularios\Conocenos.aspx" />
     <Content Include="Formularios\Contacto.aspx" />
+    <Content Include="Formularios\MiCuenta.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -414,6 +415,13 @@
     </Compile>
     <Compile Include="Formularios\Contacto.aspx.designer.cs">
       <DependentUpon>Contacto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\MiCuenta.aspx.cs">
+      <DependentUpon>MiCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formularios\MiCuenta.aspx.designer.cs">
+      <DependentUpon>MiCuenta.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
