@@ -184,7 +184,28 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
-    <Content Include="Formularios\VistaConocenos.aspx" />
+    <Content Include="Formularios\assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Formularios\assets\css\baguetteBox.min.css" />
+    <Content Include="Formularios\assets\css\vanilla-zoom.min.css" />
+    <Content Include="Formularios\assets\img\avatars\avatar1.jpg" />
+    <Content Include="Formularios\assets\img\avatars\avatar2.jpg" />
+    <Content Include="Formularios\assets\img\avatars\avatar3.jpg" />
+    <Content Include="Formularios\assets\img\scenery\image1.jpg" />
+    <Content Include="Formularios\assets\img\scenery\image3.jpg" />
+    <Content Include="Formularios\assets\img\scenery\image4.jpg" />
+    <Content Include="Formularios\assets\img\scenery\image5.jpg" />
+    <Content Include="Formularios\assets\img\scenery\image6.jpg" />
+    <Content Include="Formularios\assets\img\star-empty.svg" />
+    <Content Include="Formularios\assets\img\star-half-empty.svg" />
+    <Content Include="Formularios\assets\img\star.svg" />
+    <Content Include="Formularios\assets\img\tech\image1.jpg" />
+    <Content Include="Formularios\assets\img\tech\image2.jpg" />
+    <Content Include="Formularios\assets\img\tech\image3.png" />
+    <Content Include="Formularios\assets\img\tech\image4.jpg" />
+    <Content Include="Formularios\assets\js\baguetteBox.min.js" />
+    <Content Include="Formularios\assets\js\theme.js" />
+    <Content Include="Formularios\assets\js\vanilla-zoom.js" />
+    <Content Include="Formularios\Conocenos.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -379,12 +400,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\VistaConocenos.aspx.cs">
-      <DependentUpon>VistaConocenos.aspx</DependentUpon>
+    <Compile Include="Formularios\Conocenos.aspx.cs">
+      <DependentUpon>Conocenos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Formularios\VistaConocenos.aspx.designer.cs">
-      <DependentUpon>VistaConocenos.aspx</DependentUpon>
+    <Compile Include="Formularios\Conocenos.aspx.designer.cs">
+      <DependentUpon>Conocenos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
